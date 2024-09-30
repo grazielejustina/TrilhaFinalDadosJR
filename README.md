@@ -24,22 +24,27 @@ Analisando esses dados para obter uma análise básica de satisfação geral e h
 
 Essas análises iniciais demostram que a satisfação geral é alta e que a maioria dos membros dedica cerca de 8 a 9 horas semanais ao projeto voluntário. 
 
+
 ### Crie visualizações simples e relatórios claros.
 
   <img src="Gráficos1" >
+
 
 ### Utilizar ferramentas padrão de BI (Excel, Power BI, Tableau) para gerar insights.
 
   <img src="Visualização power bi.jpg" >
 
+
 ### Aplicar técnicas básicas de visualização para identificar tendências.
 
   <img src="Gráficos2" > 
+
 
 ### Utilização de KPIs básicos, como taxas de satisfação e engajamento.
 
 Calculando as métricas de taxa de satisfação e taxa de engajamento dos dados de junho e julho, encontramos:
 Taxa de Satisfação: 100,00%
 Taxa de Engajamento: 63,21%
+
 
 #### Neste relatório de análise de dados, conclui-se que os voluntários estão satisfeitos e se envolvem ativamente nas atividades de voluntariado. Relatório de Análise de Dados para Trilha Final Ciência de Dados Jr com foco em Analista de Dados e Business Intelligence I - Nível Júnior do Código Certo Coders
