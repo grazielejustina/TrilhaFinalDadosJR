@@ -6,10 +6,15 @@ Desafio: O objetivo deste projeto é realizar uma análise detalhada dos dados e
 
 ## Desafios e Expectativas:
 Realizar análise exploratória básica dos dados.
+
 Criar visualizações simples e relatórios claros.
+
 Utilizar ferramentas padrão de BI (Excel, Power BI, Tableau) para gerar insights.
+
 Aplicar técnicas básicas de visualização para identificar tendências.
+
 Produzir relatórios que apresentem os resultados de forma clara e compreensível.
+
 Utilizar KPIs básicos, como taxa de satisfação e engajamento.
 
 ### Análise exploratória básica dos dados
