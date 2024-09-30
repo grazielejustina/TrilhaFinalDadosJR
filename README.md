@@ -26,11 +26,15 @@ Essas análises iniciais demostram que a satisfação geral é alta e que a maio
 
 ### Crie visualizações simples e relatórios claros.
 
-  <img src="Captura de tela 2024-09-29 221314.jpg" >
+  <img src="Gráficos1" >
+
+### Utilizar ferramentas padrão de BI (Excel, Power BI, Tableau) para gerar insights.
+
+  <img src="Visualização power bi.jpg" >
 
 ### Aplicar técnicas básicas de visualização para identificar tendências.
 
-  <img src="Captura de tela 2024-09-29 221350s.jpg" > 
+  <img src="Gráficos2" > 
 
 ### Utilização de KPIs básicos, como taxas de satisfação e engajamento.
 
